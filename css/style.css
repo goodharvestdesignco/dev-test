@@ -214,3 +214,11 @@ h1,h2,h3,h4,h5,h6 {
 @media only screen and (max-width: 600px) {
     .header, .container-3, .footer {display: none; }
     }
+
+@media only screen and (max-width: 600px) {
+    .text-box-1, .text-box-2, .text-box-3, .text-box-4, .text-box-5 {
+        width: 100%;
+        border-radius: 5px;
+        margin-top: 0; 
+        margin-left: 0;
+        }
