@@ -1,0 +1,159 @@
+
+/**TAGS**/
+
+p {
+    font-family: "Roboto" !important; 
+    margin-top: 0; 
+    margin-bottom: 0;
+}
+
+h1,h2,h3,h4,h5,h6 { 
+    font-family: "Roboto" !important; 
+    margin-top: 0 !important; 
+    margin-bottom: 0 !important;
+}
+
+/**CLASSES**/
+
+.header {
+    width: 100%;
+    margin: 0;
+    height: 90px;
+    background: #121212;
+    display: flex;
+}
+
+.uscca-logo {
+    display: inline-flex;
+    align-items: center;
+    position: absolute;
+}
+
+.col-1 {
+    width: 20%;
+    padding-left: 12%;
+    padding-top: 1%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-evenly;
+    position: relative;
+}
+
+.col-2 {
+    width: 60%;
+    display: inline-flex;
+    align-items: center;
+}
+
+.col-3 {
+    width: 20%;
+    padding-right: 12%;
+    padding-top: 1%;
+    display: inline-flex;
+    align-items: center;
+}
+.container-1 {
+    max-width: 100%;
+    width: 100%;
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .delta-logo {
+    padding-right: 13%;
+    padding-top: 1%;
+    display: flex !important;
+    flex-basis: auto;
+}
+
+.container-2 {
+    display: flex !important;
+    flex-basis: auto;
+    justify-content: flex-end;
+}
+
+.container-3 {
+    width: 100%;
+    height: 48px;
+    background: #fff;
+}
+
+.container-4 {
+    width: 100%;
+    height: 551px;
+    background: #121212;
+}
+
+.header-text-1 {
+    height: 13px;
+    text-align: right;
+    font-size: 10px;
+    line-height: 13px;
+    font-family: Roboto;
+    font-size-adjust: none;
+    letter-spacing: 0.1px;
+    color: #CBCED1;
+    padding-right: 5px;
+    margin-top: 30px;
+}
+
+
+.banner-text-2 {
+    width: 440px;
+    height: 48px;   
+    text-align: right;
+    font-size: 24px;
+    line-height: 17px;
+    font-family: Roboto;
+    font-size-adjust: none;
+    letter-spacing: 0.1px;
+    color: #121212;
+    position: absolute;
+}
+
+.graphic-1 {
+    position: absolute;
+    width: 341px;
+    height: 239px;
+}
+
+.graphic-2 {
+    position: absolute;
+    width: 341px;
+    height: 239px;
+}
+
+.variable-box {
+    width: 36vw;
+    height: 9vh;
+    margin-top: -100px;
+    margin-bottom: 0px;
+    top: 752px;
+    left: 125px;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+.text-box {
+    background-color: #F7F7F8;
+    padding-bottom: 16px;
+    width: 692px;
+    height:165px;
+}
+
+.headline {
+    padding-bottom: 8px;
+    padding-top: 37px;
+    padding-left: 34px;
+    padding-right: 34px;
+
+}
+
+.paragraph {
+    padding-bottom: 8px;
+    padding-left: 34px;
+    padding-right: 34px;
+}
+
